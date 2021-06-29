@@ -4,8 +4,7 @@
 
 `working on a budgeting PWA & studying in my spare time`
 
-Many of my repos on Github are web extensions for helping to manage large Moodle or Totara instances
-
+`💚 vuejs`
 
 [izzymg.dev](https://izzymg.dev)
 
