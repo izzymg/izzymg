@@ -1,4 +1,4 @@
-`lms administrator & web dev`
+`lms administrator & web dev` 🇳🇿 🇳🇿 
 
 `currenty employed with The Career Academy`
 
