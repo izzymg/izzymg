@@ -1,4 +1,4 @@
-solo dev of [payyourself.app](payyourself.app)
+solo dev of [payyourself.app](https://payyourself.app)
 
 `lms administrator & web dev` 🇳🇿 🇳🇿 
 
