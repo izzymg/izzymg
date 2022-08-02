@@ -1,10 +1,6 @@
-solo dev of [payyourself.app](https://payyourself.app)
-
-`lms administrator & web dev` 🇳🇿 🇳🇿 
+`web dev & digital marketing` 
 
 `currenty employed with The Career Academy`
-
-`working on a budgeting PWA & studying in my spare time`
 
 `💚 vuejs`
 
